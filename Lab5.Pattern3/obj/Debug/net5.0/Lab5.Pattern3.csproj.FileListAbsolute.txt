@@ -1,0 +1,16 @@
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\bin\Debug\net5.0\Lab5.Pattern3.exe
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\bin\Debug\net5.0\Lab5.Pattern3.deps.json
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\bin\Debug\net5.0\Lab5.Pattern3.runtimeconfig.json
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\bin\Debug\net5.0\Lab5.Pattern3.runtimeconfig.dev.json
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\bin\Debug\net5.0\Lab5.Pattern3.dll
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\bin\Debug\net5.0\ref\Lab5.Pattern3.dll
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\bin\Debug\net5.0\Lab5.Pattern3.pdb
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\Lab5.Pattern3.csproj.AssemblyReference.cache
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\Lab5.Pattern3.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\Lab5.Pattern3.AssemblyInfoInputs.cache
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\Lab5.Pattern3.AssemblyInfo.cs
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\Lab5.Pattern3.csproj.CoreCompileInputs.cache
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\Lab5.Pattern3.dll
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\ref\Lab5.Pattern3.dll
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\Lab5.Pattern3.pdb
+D:\source\repos\Lab5.Pattern3\Lab5.Pattern3\obj\Debug\net5.0\Lab5.Pattern3.genruntimeconfig.cache
